@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## Portfolio
 
-You can use the [editor on GitHub](https://github.com/krdhiraj03/krdhiraj03.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+An Android Developer with an experience of over 4 years. I have hands on experience working with Android frameworks and technologies.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+## Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p align='left'>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Android_robot.png/800px-Android_robot.png" alt="Android" width="40" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png' alt="Java" width="40" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Android_Studio_Icon_%282014-2019%29.svg/1200px-Android_Studio_Icon_%282014-2019%29.svg.png' height='30' width='auto' alt="Android Studio">
+</p>
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+## Experience
 
-- Bulleted
-- List
+### **SOFTWARE ENGINEER**
+### ONETRUST
 
-1. Numbered
-2. List
+Working with well versed team of Onetrust to develop Android SDK to compliance with Privacy laws of different countries.
 
-**Bold** and _Italic_ and `Code` text
+### **ANDROID DEVELOPER**
+### AMCI PVT. LTD.
 
-[Link](url) and ![Image](src)
-```
+Worked backend and mobile team to build mobile application using Androd,Java, and REST APIs and integration of payment gateways. Developed complete E-Learning application from scratch for students pursuing MBBS.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### **ANDROID DEVELOPER**
+### SHOWHOW2 LEARNING MEDIA PVT. LTD.
 
-### Jekyll Themes
+Worked on Android, Java mobile application develoment.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/krdhiraj03/krdhiraj03.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+---
 
-### Support or Contact
+## Education
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### **CENTURION UNIVERSITY**
+### BTech Computer Science (2012- 2016)
