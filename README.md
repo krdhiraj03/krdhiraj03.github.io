@@ -1,6 +1,6 @@
-## Portfolio
+## About
 
-An Android Developer with an experience of over 4 years. I have hands on experience working with Android frameworks and technologies.
+An Android Developer with an experience of over 5 years in desigining, developing, integrating, testing and maintaining Android applications/SDKs with the distiction of executing projects within strict time schedule.
 
 ---
 
